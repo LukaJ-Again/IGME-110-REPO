@@ -1,6 +1,7 @@
 # In Which Marina Lists Off Her Favorite Musical Artists And Gives Recommendations
 ---
 # Introduction
+
 Good now, whatever time that may be. My name is Marina, and I have a rather peculiar taste in music. It has always 
 been rather difficult to properly explain my preferences when it comes to genres and artists - in fact, it has 
 always been rather difficult to place things into genres in general. However! That won't stop me from trying. Below
