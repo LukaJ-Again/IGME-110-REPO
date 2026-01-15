@@ -15,4 +15,4 @@
 [RIT Mainpage](https://www.rit.edu/): https://www.rit.edu/
 ---
 Forgot to add a good image
-![The character Higuruma from Jujutsu Kaisen rubbing his hands down his face and rolling his eyes back in exasperation. A text bubble to his left has the words "Oh My God" written inside it.](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhiguruma-jujutsu-kaisen-never-said-oh-my-god-v0-qbqe140h04bg1.jpg)
+![The character Higuruma from Jujutsu Kaisen rubbing his hands down his face and rolling his eyes back in exasperation. A text bubble to his left has the words "Oh My God" written inside it.](https://preview.redd.it/higuruma-jujutsu-kaisen-never-said-oh-my-god-v0-qbqe140h04bg1.jpg?width=434&format=pjpg&auto=webp&s=1a24cbc8625c5e376c0a163a2c1539ee05667ba4)
