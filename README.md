@@ -13,3 +13,6 @@
 ---
 ## Here's a link to RIT's site
 [RIT Mainpage](https://www.rit.edu/): https://www.rit.edu/
+---
+Forgot to add a good image
+![The character Higuruma from Jujutsu Kaisen rubbing his hands down his face and rolling his eyes back in exasperation. A text bubble to his left has the words "Oh My God" written inside it.](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhiguruma-jujutsu-kaisen-never-said-oh-my-god-v0-qbqe140h04bg1.jpg)
