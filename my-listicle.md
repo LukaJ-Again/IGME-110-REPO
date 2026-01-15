@@ -1,12 +1,8 @@
 # In Which Marina Lists Off Her Favorite Musical Artists And Gives Recommendations
 ---
 # Introduction
-
-Good now, whatever time that may be. My name is Marina, and I have a rather peculiar taste in music. It has always 
-been rather difficult to properly explain my preferences when it comes to genres and artists - in fact, it has 
-always been rather difficult to place things into genres in general. However! That won't stop me from trying. Below
- is a list of assorted favorite artists/albums/songs, loosely grouped into general gists and themes. Don't expect 
- to be able to properly parse things. It's messy.
+---
+Good now, whatever time that may be. My name is Marina, and I have a rather peculiar taste in music. It has always been rather difficult to properly explain my preferences when it comes to genres and artists - in fact, it has always been rather difficult to place things into genres in general. However! That won't stop me from trying. Below is a list of assorted favorite artists/albums/songs, loosely grouped into general gists and themes. Don't expect to be able to properly parse things. It's messy.
  ---
  # Table Of Contents
 
@@ -23,4 +19,7 @@ always been rather difficult to place things into genres in general. However! Th
  1. [Entomologists](https://www.youtube.com/watch?v=HQI5a2WGt2s)
  2. [Appetite of a People-Pleaser](https://www.youtube.com/watch?v=kf3Err9MvDg)
  3. [TRUST FALL!](https://www.youtube.com/watch?v=DhiYG-1fwCQ)
+
+### Vane Lily
  
+![An image of Vane's Twitter icon](https://pbs.twimg.com/profile_images/1945627652716388353/1WptjrfP_400x400.jpg)
